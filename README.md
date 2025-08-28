@@ -1,7 +1,6 @@
 
 # End-to-End Real-Time Analytics Pipeline on GCP
 
-![alt text](<screenshots/Architecture Diagram.png>)
 
 
 ## 1. Project Summary
@@ -67,7 +66,6 @@ The dashboard provides insights critical for understanding user demographics and
 - **Average Age**: A dynamic view of the average age of users, segmented by location and gender.
 - **Average Reg Age**: A dynamic view of the average age of users, segmented by location and gender.
 
-![alt text](<screenshots/Tableau Dashboard .png>)
 
 ## 6. Code
 
